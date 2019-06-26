@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/joyride/static/css/main.2cce8147.chunk.css",
+    "main.js": "/joyride/static/js/main.1c583ca1.chunk.js",
+    "main.js.map": "/joyride/static/js/main.1c583ca1.chunk.js.map",
+    "runtime~main.js": "/joyride/static/js/runtime~main.35e491b1.js",
+    "runtime~main.js.map": "/joyride/static/js/runtime~main.35e491b1.js.map",
+    "static/js/2.b41502e9.chunk.js": "/joyride/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/joyride/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/joyride/index.html",
+    "precache-manifest.202f2cff82d76a68a1e761ba325602a5.js": "/joyride/precache-manifest.202f2cff82d76a68a1e761ba325602a5.js",
+    "service-worker.js": "/joyride/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/joyride/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/joyride/static/media/logo.5d5d9eef.svg"
+  }
+}
